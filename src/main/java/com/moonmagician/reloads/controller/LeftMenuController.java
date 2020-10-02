@@ -223,4 +223,13 @@ public class LeftMenuController {
     public String gitnote(){
         return "/bar/constitute/gitnote";
     }
+
+    /**
+     * 返回其他笔记列表页面
+     * @return
+     */
+    @RequestMapping("/othernote")
+    public String othernote(){
+        return "/bar/constitute/othernote";
+    }
 }
