@@ -145,7 +145,7 @@
                 <div th:each="data:${linuxnotedatas}" class="container-fluid mystyle">
                     <div class="row" >
                         <div class="col-md-2 "></div>
-                        <a class="col-md-8"  th:href="'/'+${data.webpagepath}"  >
+                        <a class="col-md-8"  th:href="'/bar/pagelist/linuxnote/'+${data.webpagepath}+'.pdf'"  target="_blank">
                             <img th:src="${data.imgurl}" class="view-box" style="position: relative;"/>
                             <div style="position:absolute;top:50%;width:95%;height: 30%;">
                                 <div class="view-box col-md-12" th:text="${data.title}">
