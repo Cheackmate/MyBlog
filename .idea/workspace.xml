@@ -2,30 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bb6ce38-c648-4316-9438-6a9b14efdb6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/othernote.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LinuxNoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/entity/Linuxnote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/mapper/LinuxNoteMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/LinuxNoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/impl/LinuxNoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/mybatis/mapper/LinuxNoteMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/project/img/bg/linuxnote/linuxday01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/project/img/bg/linuxnote/linuxday02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day01-Linux基础.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day02-Linux文件管理系统.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day03-LInuxVi编辑器.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day04-文件扩展.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day05-用户管理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day06-用户管理2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day07-文件权限.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day08-文件权限II.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day09-进程管理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day10-管道及IO定向.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day11-存储管理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day12-存储管理II.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day13-文件查找及打包.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day14-软件包管理I.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day15-域名系统DNS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day16-计划任务.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day17-日志系统.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day18-Linux网络管理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day19-域名系统DNS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day20-vsfrpd-nfs-cifs.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day21-Apache服务器.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/Day22-Apache服务器II.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/pagelist/linuxnote/day01.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/EasyNettyServer.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/EasyNettyServer.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LeftMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LeftMenuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/allproject.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/allproject.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/gitnote.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/gitnote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/javanote.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/javanote.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/linuxnote.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/linuxnote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/mysqlnote.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/mysqlnote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/redisnote.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/redisnote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/vuenote.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/vuenote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bar/navigation/talk.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bar/navigation/talk.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/commons/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/commons/template.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/moonmagician/reloads/controller/LeftMenuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moonmagician/reloads/controller/LeftMenuController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bar/constitute/allproject.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bar/constitute/allproject.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bar/constitute/gitnote.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bar/constitute/gitnote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bar/constitute/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bar/constitute/introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bar/constitute/javanote.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bar/constitute/javanote.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/bar/constitute/linuxnote.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bar/constitute/linuxnote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bar/constitute/mysqlnote.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bar/constitute/mysqlnote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bar/constitute/redisnote.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bar/constitute/redisnote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bar/constitute/vuenote.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bar/constitute/vuenote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bar/navigation/talk.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bar/navigation/talk.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/commons/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/commons/template.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -58,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LeftMenuController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="231" column="23" selection-start-line="231" selection-start-column="23" selection-end-line="231" selection-end-column="23" />
+            <state relative-caret-position="276">
+              <caret line="191" column="63" selection-start-line="191" selection-start-column="53" selection-end-line="191" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,96 +83,75 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/gitnote.html">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/entity/Linuxnote.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
+            <state relative-caret-position="207">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/othernote.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="22" selection-start-line="22" selection-end-line="129" selection-end-column="12" />
-              <folding>
-                <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/introduction.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
-              <folding>
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/mysqlnote.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="113" column="19" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/javanote.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="113" column="19" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/linuxnote.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="113" column="19" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/redisnote.html">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/linuxnote.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2231">
-              <caret line="97" column="68" lean-forward="true" selection-start-line="97" selection-start-column="68" selection-end-line="97" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/navigation/talk.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="119" column="42" selection-start-line="119" selection-start-column="42" selection-end-line="119" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/vuenote.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="101" column="34" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
+            <state relative-caret-position="-414">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#nav#0;n#div#1;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/mybatis/mapper/LinuxNoteMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/LinuxNoteService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/mapper/LinuxNoteMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LinuxNoteController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,9 +163,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -214,13 +208,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/navigation/message.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/navigation/question.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/navigation/history.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/navigation/myspeak.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/navigation/talk.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/static/project/css/style.css" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/logins/login.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/logins/register.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/mapper/ConsumerMapper.java" />
@@ -253,18 +240,25 @@
         <option value="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/distributednote.html" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LeftMenuController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/allproject.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/commons/template.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/othernote.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/gitnote.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/introduction.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/mysqlnote.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/javanote.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/linuxnote.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/bar/navigation/talk.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/vuenote.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/redisnote.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/commons/template.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/LinuxNoteService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/mybatis/mapper/LinuxNoteMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LeftMenuController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/impl/LinuxNoteServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/mapper/LinuxNoteMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/entity/LinuxNote.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/entity/Linuxnote.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/bar/constitute/linuxnote.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LinuxNoteController.java" />
       </list>
     </option>
   </component>
@@ -293,8 +287,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="545" />
-    <option name="y" value="432" />
+    <option name="x" value="26" />
+    <option name="y" value="41" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -304,8 +298,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="CatdeaLogs" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -418,6 +412,18 @@
               <item name="reloads" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="moonmagician" type="462c0819:PsiDirectoryNode" />
+              <item name="reloads" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reloads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reloads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -427,6 +433,48 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reloads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reloads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reloads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reloads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reloads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reloads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="bg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reloads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reloads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="bg" type="462c0819:PsiDirectoryNode" />
+              <item name="linuxnote" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="reloads" type="b2602c69:ProjectViewProjectNode" />
@@ -463,7 +511,18 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="bar" type="462c0819:PsiDirectoryNode" />
-              <item name="navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="pagelist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reloads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reloads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="bar" type="462c0819:PsiDirectoryNode" />
+              <item name="pagelist" type="462c0819:PsiDirectoryNode" />
+              <item name="linuxnote" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="reloads" type="b2602c69:ProjectViewProjectNode" />
@@ -522,7 +581,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -533,7 +592,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601601450891" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601813255033" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -544,22 +603,22 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\static\userlist" />
-      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\templates\bar" />
-      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\templates" />
-      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\static\img" />
-      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\templates\navigation" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\reloads\src\main\resources\static\project\img\bg\linuxnote" />
+      <recent name="C:\Users\HP\Desktop\reloads\src\main\resources\templates\bar\pagelist\linuxnote" />
+      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\static\project\img\bg" />
+      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\public\caochen" />
+      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\public\admin" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.moonmagician.reloads.config" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\static\project\img\bg" />
-      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\public\caochen" />
-      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\public\admin" />
-      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\project\img" />
-      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\project\profile-photo\caochen" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\reloads\src\main\resources\templates\bar\pagelist\linuxnote" />
+      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\static\userlist" />
+      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\templates\bar" />
+      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\templates" />
+      <recent name="F:\JAVA\javaTest\DataStruct\reloads\src\main\resources\static\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -645,7 +704,9 @@
       <workItem from="1601373784027" duration="620000" />
       <workItem from="1601518594748" duration="607000" />
       <workItem from="1601523307732" duration="1475000" />
-      <workItem from="1601525118941" duration="4194000" />
+      <workItem from="1601525118941" duration="7135000" />
+      <workItem from="1601779297422" duration="10005000" />
+      <workItem from="1601859908980" duration="686000" />
     </task>
     <servers />
   </component>
@@ -667,13 +728,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174866000" />
+    <option name="totallyTimeSpent" value="188498000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="345" y="17" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.20149253" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.20575693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -683,8 +744,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.30694142" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.23210412" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -715,110 +776,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/background-main.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/background-main1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/home-all.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/entity/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/mapper/ConsumerMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/ConsumerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/impl/ConsumerServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/com/baomidou/mybatis-plus-core/3.1.2/mybatis-plus-core-3.1.2-sources.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="197" column="13" selection-start-line="197" selection-start-column="13" selection-end-line="197" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/HelloTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/moonmagician/reloads/ReloadsApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="29" column="83" lean-forward="true" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/mybatis/mapper/ImgviewMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/ImgviewService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/mapper/ImgviewMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/project/img/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -852,33 +809,12 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/background2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/impl/ImgviewServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/maven/repository/com/baomidou/mybatis-plus-core/3.1.2/mybatis-plus-core-3.1.2-sources.jar!/com/baomidou/mybatisplus/core/conditions/query/QueryWrapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="45" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="e#1610#1611#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/config/MybatisPlusConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -910,16 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/entity/Imgview.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -934,24 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#nav#0;n#div#1;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -960,38 +868,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2217#2218#0" expanded="true" />
             <element signature="e#2258#2259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/PageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/commons/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="247" selection-start-line="247" selection-end-line="354" selection-end-column="16" />
-          <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#ul#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LeftMenuController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="231" column="23" selection-start-line="231" selection-start-column="23" selection-end-line="231" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1052,13 +928,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/linuxnote.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="113" column="19" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/navigation/talk.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -1079,8 +948,240 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/redisnote.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2231">
+        <state relative-caret-position="-653">
           <caret line="97" column="68" lean-forward="true" selection-start-line="97" selection-start-column="68" selection-end-line="97" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/HelloTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/ImgviewService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/entity/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/entity/Imgview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="20" column="7" lean-forward="true" selection-end-line="148" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/commons/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="309" column="45" selection-start-line="309" selection-start-column="45" selection-end-line="309" selection-end-column="45" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/mapper/ImgviewMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/impl/ImgviewServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/mybatis/mapper/ImgviewMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/spring-core/5.2.8.RELEASE/spring-core-5.2.8.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/com/baomidou/mybatis-plus-core/3.1.2/mybatis-plus-core-3.1.2-sources.jar!/com/baomidou/mybatisplus/core/override/MybatisMapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA/jdk1.8/a/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+          <folding>
+            <element signature="e#6052#6053#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/LinuxNoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/service/impl/LinuxNoteServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/mybatis/mapper/LinuxNoteMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="11" selection-start-line="11" selection-end-line="16" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#div#1;n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/mapper/LinuxNoteMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LinuxNoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/controller/LeftMenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="191" column="63" selection-start-line="191" selection-start-column="53" selection-end-line="191" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moonmagician/reloads/entity/Linuxnote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bar/constitute/linuxnote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#div#1;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

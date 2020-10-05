@@ -4,13 +4,14 @@ import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.moonmagician.reloads.entity.Imgview;
+import com.moonmagician.reloads.entity.Linuxnote;
 import com.moonmagician.reloads.mapper.ImgviewMapper;
+import com.moonmagician.reloads.mapper.LinuxNoteMapper;
 import com.moonmagician.reloads.service.ImgviewService;
-import com.moonmagician.reloads.service.impl.ImgviewServiceImpl;
+import com.moonmagician.reloads.service.LinuxNoteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -169,13 +170,37 @@ public class LeftMenuController {
      * 之后为计算机相关的笔记页面
      */
 
+    @Autowired
+    LinuxNoteMapper linuxNoteMapper;
+    @Autowired
+    LinuxNoteService linuxNoteService;
     /**
      * 返回笔记整理下linux笔记页面
      * 此页面是linux的相关笔记
      * @return
      */
-    @RequestMapping("/linuxnote")
-    public String linuxnote(){
+    @RequestMapping("/linuxnote/{id}")
+    public String linuxnote(@PathVariable("id") int id,Model model){
+        //首先查找总的数据数量
+        Integer datacount = linuxNoteService.datacount();
+        int pageNumber = datacount/10+1;
+
+        //分页查找当前页的数据
+        QueryWrapper<Linuxnote> queryWrapper = new QueryWrapper<>();
+        //        queryWrapper.eq("age",23);
+        IPage<Linuxnote> page = new Page<>(id,10);
+        IPage<Linuxnote> userIPage = linuxNoteMapper.selectPage(page, queryWrapper);
+        long total = userIPage.getTotal();
+
+        model.addAttribute("linuxnotepageindex",id);
+        model.addAttribute("linuxnotepagelist",userIPage);
+        model.addAttribute("linuxnotepagesize",total);
+        model.addAttribute("linuxnotepagenumber",pageNumber);
+
+
+        List<Linuxnote> list = new ArrayList<>();
+        userIPage.getRecords().forEach(user-> list.add(user));
+        model.addAttribute("linuxnotedatas",list);
         return "/bar/constitute/linuxnote";
     }
     /**
